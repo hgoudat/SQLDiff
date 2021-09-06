@@ -7,7 +7,7 @@ GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
+--Test
 --IV-4462
 IF(OBJECT_ID('dbo.CorpId_to_ApiKey') IS NULL)
 BEGIN
